@@ -1,0 +1,147 @@
+﻿/* Import Google font - Poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+    margin-left: 0px;
+    margin-right: 0;
+    margin-top: 0;
+}
+body{
+  min-height: 100vh;
+  width: 100%;
+
+}
+.hinhsach{
+    text-align:center;
+}
+.container1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  max-width: 430px;
+  width: 100%;
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.3);
+}
+.mo{
+    height:103%;
+    z-index:5;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  max-width: 630px;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5); 
+  border-radius: 7px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.3);
+  padding:25% 50% 26% 50%;
+  display:none;
+}
+.mo_dnhap{
+     display:none;
+}
+.mo_dky{
+     display:none;
+}
+.container .registration{
+  display: block;
+}
+
+.container .form{
+  padding: 2rem;
+}
+.form header{
+
+  font-weight: 500;
+  
+  margin-bottom: 1.5rem;
+}
+#Label2{
+    margin-right: 47px;
+}
+#Label8{
+    margin-right: 45px;
+}
+#Label3{
+    margin-right: 26px;
+}
+#Label4{
+    margin-right: 25px;
+}
+#Label6{
+    margin-right: 47px;
+}
+#Label7{
+    margin-right: 53px;
+}
+ .form input{
+   
+   padding: 0 15px;
+   font-size: 17px;
+   margin-bottom: 1.3rem;
+   border: 1px solid #ddd;
+   border-radius: 6px;
+   outline: none;
+ }
+ .form input:focus{
+   box-shadow: 0 1px 0 rgba(0,0,0,0.2);
+ }
+.form a{
+  font-size: 16px;
+  color: #013584;
+  text-decoration: none;
+}
+.form a:hover{
+  text-decoration: underline;
+}
+.form input#btn_dky {
+  color: #fff;
+  background: #013584;
+  font-size: 1.2rem;
+  font-weight: 500;
+  letter-spacing: 1px;
+  margin-top: 1.7rem;
+  cursor: pointer;
+  transition: 0.4s;
+}
+.form input#btn_dnhap {
+  color: #fff;
+  background: #013584;
+  font-size: 1.2rem;
+  font-weight: 500;
+  letter-spacing: 1px;
+  margin-top: 1.7rem;
+  cursor: pointer;
+  transition: 0.4s;
+}
+.form input#btn_dky:hover{
+  background: #013500;
+}
+.form input#btn_dnhap:hover{
+  background: #013500;
+}
+.signup{
+  font-size: 17px;
+  text-align: center;
+}
+.signup label{
+  color: #013584;
+  cursor: pointer;
+}
+.signup label:hover{
+  text-decoration: underline;
+}
+.appear-log-reg{
+    right: 0%;
+    position:absolute;
+    top: 1px;
+    width:100%;
+    background-color: rgba(0, 0, 0, -0.5);
+    min-height: 800px;
+    max-height: 800px;
+}

@@ -1,0 +1,1249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\ASUS\Downloads\Public</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="admin-style.css">
+      <publishTime>12/19/2023 14:32:14</publishTime>
+    </File>
+    <File Include="admin.aspx">
+      <publishTime>12/17/2023 19:08:48</publishTime>
+    </File>
+    <File Include="ApplicationInsights.config">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SqlServer.Types.dll">
+      <publishTime>12/10/2016 15:26:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="bin/SqlServerTypes/x64/msvcr120.dll">
+      <publishTime>12/08/2023 20:38:07</publishTime>
+    </File>
+    <File Include="bin/SqlServerTypes/x64/SqlServerSpatial140.dll">
+      <publishTime>12/08/2023 20:38:07</publishTime>
+    </File>
+    <File Include="bin/SqlServerTypes/x86/msvcr120.dll">
+      <publishTime>12/08/2023 20:38:07</publishTime>
+    </File>
+    <File Include="bin/SqlServerTypes/x86/SqlServerSpatial140.dll">
+      <publishTime>12/08/2023 20:38:07</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.dll">
+      <publishTime>12/19/2023 21:27:51</publishTime>
+    </File>
+    <File Include="Capcha.aspx">
+      <publishTime>12/18/2023 20:51:50</publishTime>
+    </File>
+    <File Include="chitietsanpham.aspx">
+      <publishTime>12/11/2023 09:58:35</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>12/11/2023 18:23:01</publishTime>
+    </File>
+    <File Include="giohang.aspx">
+      <publishTime>12/18/2023 21:32:03</publishTime>
+    </File>
+    <File Include="gioithieu.aspx">
+      <publishTime>12/11/2023 19:11:51</publishTime>
+    </File>
+    <File Include="khosach.aspx">
+      <publishTime>12/15/2023 20:10:36</publishTime>
+    </File>
+    <File Include="lienhe.aspx">
+      <publishTime>12/11/2023 19:13:12</publishTime>
+    </File>
+    <File Include="loginadmin.aspx">
+      <publishTime>12/10/2023 03:02:27</publishTime>
+    </File>
+    <File Include="logout.aspx">
+      <publishTime>12/05/2023 13:14:14</publishTime>
+    </File>
+    <File Include="logoutadmin.aspx">
+      <publishTime>12/06/2023 15:37:44</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>12/08/2023 20:38:13</publishTime>
+    </File>
+    <File Include="phieumuon.aspx">
+      <publishTime>12/17/2023 19:14:27</publishTime>
+    </File>
+    <File Include="quanlymuonsach.aspx">
+      <publishTime>12/19/2023 15:05:41</publishTime>
+    </File>
+    <File Include="quanlysach.aspx">
+      <publishTime>12/19/2023 15:34:31</publishTime>
+    </File>
+    <File Include="quanlysachdg.aspx">
+      <publishTime>12/19/2023 14:10:46</publishTime>
+    </File>
+    <File Include="quanlytaikhoan.aspx">
+      <publishTime>12/19/2023 19:31:51</publishTime>
+    </File>
+    <File Include="quanlytrasach.aspx">
+      <publishTime>12/15/2023 18:43:57</publishTime>
+    </File>
+    <File Include="sachtheoloai.aspx">
+      <publishTime>12/18/2023 21:06:48</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.js">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.min.js">
+      <publishTime>10/10/2023 18:32:02</publishTime>
+    </File>
+    <File Include="scripts/change.js">
+      <publishTime>12/10/2023 22:18:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/adapters/jquery.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/CHANGES.html">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/ckeditor.asp">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/ckeditor.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/ckeditor.pack">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/ckeditor.php">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/ckeditor_basic.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/ckeditor_basic_source.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/ckeditor_php4.php">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/ckeditor_php5.php">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/ckeditor_source.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/config.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/contents.css">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/images/spacer.gif">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/INSTALL.html">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/af.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/ar.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/bg.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/bn.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/bs.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/ca.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/cs.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/cy.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/da.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/de.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/el.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/en-au.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/en-ca.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/en-gb.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/en.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/eo.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/es.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/et.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/eu.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/fa.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/fi.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/fo.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/fr-ca.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/fr.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/gl.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/gu.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/he.js">
+      <publishTime>12/06/2023 21:12:45</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/hi.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/hr.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/hu.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/id.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/is.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/it.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/ja.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/ka.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/km.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/ko.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/lt.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/lv.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/mk.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/mn.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/ms.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/nb.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/nl.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/no.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/pl.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/pt-br.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/pt.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/ro.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/ru.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/sk.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/sl.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/sr-latn.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/sr.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/sv.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/th.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/tr.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/ug.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/uk.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/vi.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/zh-cn.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/zh.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/_languages.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/lang/_translationstatus.txt">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/LICENSE.html">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/cs.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/cy.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/da.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/de.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/el.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/en.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/eo.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/fa.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/fi.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/fr.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/gu.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/he.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/it.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/mk.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/nb.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/nl.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/no.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/pt-br.js">
+      <publishTime>12/06/2023 21:12:44</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/ro.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/tr.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/ug.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/vi.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/zh-cn.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/a11yhelp/lang/_translationstatus.txt">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/about/dialogs/about.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/about/dialogs/logo_ckeditor.png">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/adobeair/plugin.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/ajax/plugin.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/autogrow/plugin.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/bbcode/plugin.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/clipboard/dialogs/paste.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/colordialog/dialogs/colordialog.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/bg.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/cs.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/cy.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/da.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/de.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/el.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/en.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/eo.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/et.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/fa.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/fi.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/fr.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/gu.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/he.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/hr.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/it.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/nb.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/nl.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/no.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/pl.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/pt-br.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/tr.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/ug.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/uk.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/vi.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/zh-cn.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/lang/_translationstatus.txt">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/devtools/plugin.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/dialog/dialogDefinition.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/div/dialogs/div.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/docprops/dialogs/docprops.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/docprops/plugin.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/find/dialogs/find.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/flash/dialogs/flash.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/flash/images/placeholder.png">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/forms/dialogs/button.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/forms/dialogs/checkbox.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/forms/dialogs/form.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/forms/dialogs/hiddenfield.js">
+      <publishTime>12/06/2023 21:12:43</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/forms/dialogs/radio.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/forms/dialogs/select.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/forms/dialogs/textarea.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/forms/dialogs/textfield.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/forms/images/hiddenfield.gif">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/iframe/dialogs/iframe.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/iframe/images/placeholder.png">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/iframedialog/plugin.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/image/dialogs/image.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/link/dialogs/anchor.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/link/dialogs/link.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/link/images/anchor.gif">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/liststyle/dialogs/liststyle.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/pagebreak/images/pagebreak.gif">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/pastefromword/filter/default.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/pastetext/dialogs/pastetext.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/dialogs/placeholder.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/bg.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/cs.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/cy.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/da.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/de.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/el.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/en.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/eo.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/et.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/fa.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/fi.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/fr.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/he.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/hr.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/it.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/nb.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/nl.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/no.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/pl.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/pt-br.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/tr.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/ug.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/uk.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/vi.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/zh-cn.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/lang/_translationstatus.txt">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/placeholder.gif">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/placeholder/plugin.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/preview/preview.html">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/scayt/dialogs/options.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/scayt/dialogs/toolbar.css">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/showblocks/images/block_address.png">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/showblocks/images/block_blockquote.png">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/showblocks/images/block_div.png">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/showblocks/images/block_h1.png">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/showblocks/images/block_h2.png">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/showblocks/images/block_h3.png">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/showblocks/images/block_h4.png">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/showblocks/images/block_h5.png">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/showblocks/images/block_h6.png">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/showblocks/images/block_p.png">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/showblocks/images/block_pre.png">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/smiley/dialogs/smiley.js">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/smiley/images/angel_smile.gif">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/smiley/images/angry_smile.gif">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/smiley/images/broken_heart.gif">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/smiley/images/confused_smile.gif">
+      <publishTime>12/06/2023 21:12:42</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/smiley/images/cry_smile.gif">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/smiley/images/devil_smile.gif">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/smiley/images/embaressed_smile.gif">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/smiley/images/envelope.gif">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/smiley/images/heart.gif">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/smiley/images/kiss.gif">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/smiley/images/lightbulb.gif">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/smiley/images/omg_smile.gif">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/smiley/images/regular_smile.gif">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/smiley/images/sad_smile.gif">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/smiley/images/shades_smile.gif">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/smiley/images/teeth_smile.gif">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/smiley/images/thumbs_down.gif">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/smiley/images/thumbs_up.gif">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/smiley/images/tounge_smile.gif">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.gif">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/smiley/images/wink_smile.gif">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/specialchar/dialogs/specialchar.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/specialchar/lang/cs.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/specialchar/lang/cy.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/specialchar/lang/de.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/specialchar/lang/el.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/specialchar/lang/en.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/specialchar/lang/eo.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/specialchar/lang/et.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/specialchar/lang/fa.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/specialchar/lang/fi.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/specialchar/lang/fr.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/specialchar/lang/he.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/specialchar/lang/hr.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/specialchar/lang/it.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/specialchar/lang/nb.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/specialchar/lang/nl.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/specialchar/lang/no.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/specialchar/lang/pt-br.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/specialchar/lang/tr.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/specialchar/lang/ug.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/specialchar/lang/zh-cn.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/specialchar/lang/_translationstatus.txt">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/styles/styles/default.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/stylesheetparser/plugin.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/table/dialogs/table.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/tableresize/plugin.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/tabletools/dialogs/tableCell.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/templates/dialogs/templates.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/templates/templates/default.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/templates/templates/images/template1.gif">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/templates/templates/images/template2.gif">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/templates/templates/images/template3.gif">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/dialogs/uicolor.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/bg.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/cs.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/cy.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/da.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/de.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/el.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/en.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/eo.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/et.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/fa.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/fi.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/fr.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/he.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/hr.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/it.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/mk.js">
+      <publishTime>12/06/2023 21:12:41</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/nb.js">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/nl.js">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/no.js">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/pl.js">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/pt-br.js">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/tr.js">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/ug.js">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/uk.js">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/vi.js">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/zh-cn.js">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/lang/_translationstatus.txt">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/plugin.js">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/uicolor.gif">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/yui/assets/hue_bg.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/yui/assets/hue_thumb.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/yui/assets/picker_mask.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/yui/assets/picker_thumb.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/yui/assets/yui.css">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/uicolor/yui/yui.js">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/wsc/dialogs/ciframe.html">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/wsc/dialogs/tmpFrameset.html">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/wsc/dialogs/wsc.css">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/wsc/dialogs/wsc.js">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/plugins/xml/plugin.js">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/kama/dialog.css">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/kama/editor.css">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/kama/icons.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/kama/icons_rtl.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/kama/images/dialog_sides.gif">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/kama/images/dialog_sides.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/kama/images/dialog_sides_rtl.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/kama/images/mini.gif">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/kama/images/noimage.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/kama/images/sprites.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/kama/images/sprites_ie6.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/kama/images/toolbar_start.gif">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/kama/skin.js">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/kama/templates.css">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/office2003/dialog.css">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/office2003/editor.css">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/office2003/icons.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/office2003/icons_rtl.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/office2003/images/dialog_sides.gif">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/office2003/images/dialog_sides.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/office2003/images/dialog_sides_rtl.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/office2003/images/mini.gif">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/office2003/images/noimage.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/office2003/images/sprites.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/office2003/images/sprites_ie6.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/office2003/skin.js">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/office2003/templates.css">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/v2/dialog.css">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/v2/editor.css">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/v2/icons.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/v2/icons_rtl.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/v2/images/dialog_sides.gif">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/v2/images/dialog_sides.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/v2/images/dialog_sides_rtl.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/v2/images/mini.gif">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/v2/images/noimage.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/v2/images/sprites.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/v2/images/sprites_ie6.png">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/v2/images/toolbar_start.gif">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/v2/skin.js">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/skins/v2/templates.css">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="scripts/ckeditor/themes/default/theme.js">
+      <publishTime>12/06/2023 21:12:40</publishTime>
+    </File>
+    <File Include="Site1.Master">
+      <publishTime>12/19/2023 20:35:21</publishTime>
+    </File>
+    <File Include="SqlServerTypes/readme.htm">
+      <publishTime>12/08/2023 20:38:03</publishTime>
+    </File>
+    <File Include="SqlServerTypes/x64/msvcr120.dll">
+      <publishTime>12/08/2023 20:38:07</publishTime>
+    </File>
+    <File Include="SqlServerTypes/x64/SqlServerSpatial140.dll">
+      <publishTime>12/08/2023 20:38:07</publishTime>
+    </File>
+    <File Include="SqlServerTypes/x86/msvcr120.dll">
+      <publishTime>12/08/2023 20:38:07</publishTime>
+    </File>
+    <File Include="SqlServerTypes/x86/SqlServerSpatial140.dll">
+      <publishTime>12/08/2023 20:38:07</publishTime>
+    </File>
+    <File Include="StyleSheet1.css">
+      <publishTime>12/19/2023 13:35:34</publishTime>
+    </File>
+    <File Include="Style_register.css">
+      <publishTime>12/11/2023 19:27:11</publishTime>
+    </File>
+    <File Include="theloai.aspx">
+      <publishTime>12/19/2023 16:03:19</publishTime>
+    </File>
+    <File Include="thongke.aspx">
+      <publishTime>12/15/2023 20:40:05</publishTime>
+    </File>
+    <File Include="timkiem.aspx">
+      <publishTime>12/17/2023 23:16:33</publishTime>
+    </File>
+    <File Include="trangdocgia.aspx">
+      <publishTime>12/11/2023 09:42:09</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/18/2023 21:18:41</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

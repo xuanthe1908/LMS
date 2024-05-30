@@ -1,0 +1,213 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication1.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link rel="stylesheet" href="StyleSheet1.css" />
+    <link rel="stylesheet" href="Style_register.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+        
+    </style>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+</head>
+<body style="background-color: lavender;">
+    <form id="form1" runat="server">
+        <div>
+
+            <div class="bg_head" style="display: grid;">
+                <div class="header_item1">
+                    <img class="logo" src="./images/logo.png" />
+                </div>
+                <div class="header_item2">
+                    <img class="nen" src="./images/nentvu.jpg" />
+                </div>
+                <div class="header_item3">
+                    <% if (Session["allow"] != null)
+                        {%>
+                    <img class="logo" src="<%Response.Write(Session["img"].ToString()); %>" />
+                    <div class="h3_item">
+                  
+                    <a class="dxuat" style="left: 120px;" href="logout.aspx">ĐĂNG XUẤT</a>
+                    <a class="ten_log" style="display: flex;font-size: 11px;left: 0px;align-items: center;" href="trangdocgia.aspx"><%Response.Write(Session["fullnamedg"].ToString()); %></a>
+                    </div>
+                    <%
+                    }
+                    else
+                    {
+                    %>
+                    <img class="logo" src="./images/logo.png" />
+                    <div class="h3_item">
+                        
+                        <a class="dky" href="#">ĐĂNG KÝ</a>
+                        <a class="dnhap" href="#">ĐĂNG NHẬP</a>
+                    </div>
+                    <%
+                        }
+                    %>
+                </div>
+            </div>
+            <div style="display: grid;" class=" dm">
+              
+                
+                    <a class="item_dm dm1 a_dm  a_decoration" href="Default.aspx">TRANG CHỦ</a>
+              
+                    <a class="item_dm dm2 a_dm  a_decoration" href="gioithieu.aspx">GIỚI THIỆU</a>
+                
+                    <a class="item_dm dm3 a_dm  a_decoration" href="khosach.aspx">KHO SÁCH</a>
+                
+                    <a class="item_dm dm4 a_dm  a_decoration" style="padding: 5px 85px 8px;" href="lienhe.aspx">LIÊN HỆ</a>
+                
+                   
+                 <% if (Session["allow"] != null)
+                        {%>
+                <div class="item_dm dm4" style="display:flex; align-items:center; justify-content:space-between;">
+                    <asp:TextBox ID="txt_timkiem" runat="server"></asp:TextBox>
+                    <asp:Button ID="btn_timkiem" runat="server" Text="Tìm" OnClick="btn_timkiem_Click"/><span style="color: white;">|</span>
+                    
+                    <a style="text-decoration:none; color:white;" href="giohang.aspx">Giỏ hàng</a>
+                   
+                </div>
+                 <%}
+                     else
+                     {%>
+                <div class="item_dm dm4" style="display:flex; align-items:center;">
+                    <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+                    <asp:Button ID="Button1" runat="server" Text="Tìm" OnClick="btn_timkiem_Click"/><span style="color: white;"></span>
+                </div>
+                     <%}
+                        %>
+                <div class="mo mo_dnhap">
+                    <div class="appear-log-reg">
+
+                   
+                    <div class="container1">
+                        
+                        <div class="login form">
+                            <header>
+                                <h1 style="margin-top: 30px;">Đăng nhập</h1>
+                                <br />
+                                <asp:Label ID="Label5" runat="server" Text="Tên đăng nhập: "></asp:Label>
+                                <asp:TextBox ID="txt_logname" runat="server" Width="157px"></asp:TextBox>
+                                <br />
+                                <asp:Label ID="Label6" runat="server" Text="Mật khẩu: "></asp:Label>
+                                <asp:TextBox ID="txt_logpass" runat="server" Width="157px" TextMode="Password"></asp:TextBox>
+                                <br />
+                                
+                                <img id="Img1" src="Capcha.aspx" alt="Captcha image" runat="server" />
+                                <asp:TextBox ID="txtcapcha" runat="server" Width="157px"></asp:TextBox>
+                                    
+                                <br />
+                                <asp:Button ID="btn_dnhap" runat="server" OnClick="btn_dnhap_Click" Text="Đăng nhập" />
+                            </header>
+                        </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="mo mo_dky">
+                   <div class="appear-log-reg">
+                    <div class="container1">
+                       
+                        <div class="registration form">
+                            <header>
+                                <h1 style="margin-top: 30px;">Đăng ký</h1>
+                                <br />
+                                <asp:Label ID="Label2" runat="server" Text="Họ tên: "></asp:Label>
+                                <asp:TextBox ID="txt_fullname" runat="server" Width="157px"></asp:TextBox>
+                                <br />
+                                <asp:Label ID="Label1" runat="server" Text="Tên đăng ký: "></asp:Label>
+                                <asp:TextBox ID="txt_namedky" runat="server" Width="157px"></asp:TextBox>
+                                <br />
+                                <asp:Label ID="Label7" runat="server" Text="Email: "></asp:Label> 
+                                <asp:TextBox ID="txt_email" runat="server" Width="157px"></asp:TextBox> 
+                                <br />
+                                <asp:Label ID="Label8" runat="server" Text="Địa chỉ: "></asp:Label>
+                                <asp:TextBox ID="txt_diachi" runat="server" Width="157px"></asp:TextBox>
+                                <br />
+                                <asp:Label ID="Label3" runat="server" Text="Mật khẩu: "></asp:Label>
+                                <asp:TextBox ID="txt_passdky" runat="server" Width="157px" TextMode="Password"></asp:TextBox>
+                                <br />
+                                <asp:Label ID="Label4" runat="server" Text="Xác nhận: "></asp:Label>
+                                <asp:TextBox ID="txt_repass" runat="server" Width="157px" TextMode="Password"></asp:TextBox>
+                                <br />
+                                <asp:FileUpload ID="Upload_Avatar" runat="server" />
+                                <br />
+                                <asp:Button ID="btn_dky" runat="server" OnClick="btn_dky_Click" Text="Đăng ký" />
+                            </header>
+                        </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+            <div>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+               
+
+
+
+            
+            <footer>
+                <div class="p_footer">
+                    <div style="padding:15px;">
+                        <h6>THƯ VIỆN NƠI HỘI TỤ CỦA TRI THỨC</h6>
+                    <p>Địa chỉ: 126 Nguyễn Thiện Thành, Phường 5, TP Trà Vinh, Tỉnh Trà Vinh.</p>
+                    <p>Tel. (02943) 855 246 - 102</p>
+                    <p>Email: thuvien@gmail.com</p>
+                    </div>
+                    
+                </div>
+            </footer>
+        </div>
+    </form>
+    <script>
+        // Lấy tất cả các phần tử có class "mo"
+        var appears = document.getElementsByClassName("appear-log-reg");
+        var mo_dkys = document.getElementsByClassName("mo_dky");
+        var mo_dnhaps = document.getElementsByClassName("mo_dnhap");
+        var mos = document.getElementsByClassName("mo");
+        var logins = document.getElementsByClassName("dnhap");
+        var registers = document.getElementsByClassName("dky");
+        // Thêm sự kiện click ra ngoài màn hình cho mỗi phần tử "mo"
+        window.addEventListener("click", function (event) {
+            for (var i = 0; i < mos.length; i++) {
+                var appear = appears[i];
+                var register = registers[i];
+                var mo = mos[i];
+                var mo_dnhap = mo_dnhaps[i];
+                var mo_dky = mo_dkys[i];
+                var login = logins[i];
+                if (event.target == appear) {
+                    mo.style.display = "none";
+                    mo_dnhap.style.display = "none";
+                    mo_dky.style.display = "none";
+                } else if (event.target == mo) {
+                    // Nếu người dùng click vào phần tử "mo"
+                    mo.style.display = "none";
+                    mo_dnhap.style.display = "none";
+                    mo_dky.style.display = "none";
+
+                } else if (event.target == login) {
+                    mo.style.display = "block";
+                    mo_dnhap.style.display = "block";
+                    mo_dky.style.display = "none";
+
+                } else if (event.target == register) {
+                    mo.style.display = "block";
+                    mo_dky.style.display = "block";
+                    mo_dnhap.style.display = "none";
+                }
+            }
+
+        });
+
+
+    </script>
+
+</body>
+</html>

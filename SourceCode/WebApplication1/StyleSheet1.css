@@ -1,0 +1,224 @@
+﻿body {
+    margin:0;
+    padding:0;
+    background-color:#eeeeee;
+    position:relative;
+    z-index:5;
+}
+.bg_head{
+    grid-template-columns: repeat(5, 1fr 3fr 1fr);
+    background-color:#013584;
+}
+
+.header_item1{
+  grid-column-start: 1;
+  grid-column-end: 3;
+
+}
+.header_item2{
+  height:255px;
+  grid-column-start: 3;
+  grid-column-end: 14;
+}
+.header_item3{
+ display: flex;
+    grid-column-start: 14;
+    grid-column-end: 16;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+ 
+}
+.dky,.dnhap{
+    text-decoration:none;
+    color:white;
+    bottom:5px;
+    border:solid white 2px;
+    background-color:#013584;
+    padding:5px;
+    
+}
+.h3_item{
+    display:flex;
+    justify-content: space-evenly;
+}
+.dxuat,.ten_log{
+    text-decoration:none;
+    color:white;
+    bottom:5px;
+    border:solid white 2px;
+    background-color:#013584;
+    padding:5px;
+    
+}
+.ten_log{
+    left:85px;
+}
+.dnhap{
+    left:85px;
+}
+.dm{
+  grid-template-columns: repeat(5, 1fr);
+  text-align:center;
+  
+}
+.a_dm{
+    color:white;
+    transition:1s;
+    padding:5px 76px 8px 76px;
+}
+.a_decoration{
+    text-decoration:none;
+    color:white;
+   
+  
+}
+#txt_timkiem{
+    font-size: small;
+}
+.item_dm{
+    height:40px;
+    background-color: #013584;
+    border:solid white 2px;
+    padding:5px;
+    margin-left:-2px;
+} 
+.logo{
+  display:block;
+   height:210px;
+   width:100%;
+}
+.nen{
+    height:100%;
+    width:100%;
+     margin-top:5px;
+}
+.df{
+   max-width: 239px;
+   min-width: 239px;
+   width: 100%;
+   background-color: #013584;
+   min-height: 80vh;
+   border:solid white 2px;
+   margin-left:-2px;
+}
+
+
+.p_footer{
+    color:white;
+    border:solid white 2px ;
+    margin:0;
+    background-color:#013584;
+}
+footer{
+    margin-left:-2px;
+    top: 100%;
+    position: absolute;
+    width: 100%;
+}
+
+.a_dm:hover{
+     box-shadow: 0px 10px 5px rgba(0, 0, 0, 0.5);
+    
+}
+.hover-sanpham{
+    transition:0.5s;
+}
+.hover-sanpham:hover{
+box-shadow: 5px 5px 5px -2px;
+
+}
+
+.df_1{
+    text-align:start;
+    margin-left:2%;
+    width:95%;
+}
+.main{
+    display:flex;
+   justify-content: flex-start;
+   flex-wrap: wrap;
+}
+.admin_item{
+    border: 1px solid #ddd;
+    margin-top:20px;
+    display:inline-flex;
+}
+.img-name-product{
+    justify-content:space-around;
+    flex-direction:row;
+    display:flex;
+}
+.infor-product{
+    background-color:white;
+    margin-bottom:20px;
+    margin-top:10px;
+    margin-left:12.5%;
+    flex-direction:column;
+    display:flex;
+    box-shadow: 0px 0px 5px -3px;
+    width:75%;
+}
+.img-product{
+    margin-top:10px;
+}
+.img-product, .name-product{
+    margin-left:5px;
+    width:45%;
+}
+.name-product{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.main-product{
+    display:flex;
+}
+.ttmuon{
+    display:none;
+}
+.infor-docgia{
+    border-radius:5px;
+    background-color:white;
+    width:50%;
+    margin-left:25%;
+    box-shadow: 0px 0px 5px -2px;
+    margin-top:10px;
+}
+.hidden-infor1{
+    display: none;
+}
+.hidden-infor2{
+    display: none;
+}
+.hidden-infor3{
+    display: none;
+}
+.hidden-infor4{
+    display: none;
+}
+.hidden-infor5{
+    display: none;
+}
+#suaten, #suadiachi, #suaemail{
+    cursor: pointer;
+    text-decoration: underline;
+    background-color: white;
+    border: 0;
+}
+#suamk, #suahinh, #muonsach{
+    cursor: pointer;
+    border: 0;
+    color: white;
+    background-color: #013584;
+    height: 35px;
+}
+#ContentPlaceHolder1_btn_suahinh,#ContentPlaceHolder1_btn_xnmuon,#ContentPlaceHolder1_btnthemmasachsua,#ContentPlaceHolder1_btnsuagiohang,#ContentPlaceHolder1_btnxoagiohang,#ContentPlaceHolder1_btn_muon, #ContentPlaceHolder1_btn_suaemail, #ContentPlaceHolder1_btn_suahoten, #ContentPlaceHolder1_btn_suadiachi, #ContentPlaceHolder1_btn_suamk{
+    cursor: pointer;
+    border: 0;
+    color: white;
+    background-color: #013584;
+    height: 35px;
+    padding: 7px;
+}

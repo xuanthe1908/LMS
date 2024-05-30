@@ -1,0 +1,114 @@
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\ApplicationInsights.config
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\SqlServerTypes\x64\msvcr120.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\SqlServerTypes\x86\msvcr120.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\roslyn\csc.exe
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\roslyn\vbc.exe
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\WebApplication1.dll.config
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\WebApplication1.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\WebApplication1.pdb
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\Microsoft.AI.Web.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\Microsoft.SqlServer.Types.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\Microsoft.AI.Web.xml
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\obj\Release\Ketthucmon.csprojResolveAssemblyReference.cache
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\obj\Release\WebApplication1.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon\WebApplication1\obj\Release\WebApplication1.pdb
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\ApplicationInsights.config
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\SqlServerTypes\x64\msvcr120.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\SqlServerTypes\x86\msvcr120.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\roslyn\csc.exe
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\roslyn\vbc.exe
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\WebApplication1.dll.config
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\WebApplication1.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\WebApplication1.pdb
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\Microsoft.AI.Web.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\Microsoft.SqlServer.Types.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\Microsoft.AI.Web.xml
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\obj\Release\Ketthucmon.csprojResolveAssemblyReference.cache
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\obj\Release\WebApplication1.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon - Copy\WebApplication1\obj\Release\WebApplication1.pdb
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\ApplicationInsights.config
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\SqlServerTypes\x64\msvcr120.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\SqlServerTypes\x86\msvcr120.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\roslyn\csc.exe
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\roslyn\vbc.exe
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\WebApplication1.dll.config
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\WebApplication1.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\WebApplication1.pdb
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\Microsoft.AI.Web.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\Microsoft.SqlServer.Types.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\Microsoft.AI.Web.xml
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\obj\Release\Ketthucmon.csprojResolveAssemblyReference.cache
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\obj\Release\WebApplication1.dll
+D:\HocDH\ThayMien\ketthucmon_ASP.net-test\Code\Ketthucmon-chinhthuc - Copy\WebApplication1\obj\Release\WebApplication1.pdb
